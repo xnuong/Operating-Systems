@@ -1,1 +1,4 @@
-
+Managing memory function of the operating system:
+Memory is the only storage device through which the CPU can exchange information with the external environment, so the need to organize and manage memory is one of the top core tasks of the operating system.
+The exchange of information with the external environment is done through the operations of reading or writing data to a specific address in memory.
+The operating system is responsible for allocating memory to the required processes.
