@@ -8,3 +8,9 @@ Another function of the operating system: Updating operating system software.
 Software and programs need to be updated to provide new features or correct errors in old versions. 
 The operating system checks and updates new software versions for your computer. 
 It is an important function of the operating system.
+
+Another function of the operating system: Processor Management 
+Processes include programs or routines that provide support for other programs or hardware.
+Operating system (OS) allocates the processor (CPU) to a process and de-allocates the processor when it is no longer needed.
+Os determines the order in which the processes have access to the processor and the processing time of each process. 
+This function of OS is called process scheduling.
